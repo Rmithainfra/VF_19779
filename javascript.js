@@ -139,7 +139,7 @@ function updateDegreeScale() {
       "image-2": 0,
       "image-3": 0,
       "image-4": 0,
-      "image-5": 0
+      "image-5": -5
     };
   
     // Get the adjusted yaw value based on the current scene and initial yaw
